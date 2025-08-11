@@ -8,6 +8,7 @@
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tipubandlapalli&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=tipubandlapalli)
+<!-- Rohit deka rhd>
 
 <!---
 tipubandlapalli/tipubandlapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
